@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpecialProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name = "current_location">I'm Here!</string>
+</resources>
